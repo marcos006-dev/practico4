@@ -1,0 +1,43 @@
+{
+  "firstName": "Nombre",
+  "lastName": "Apellido",
+  "dni": 11111111,
+  "email": "correo@correo.com",
+  "linkRepositorieGithub": "https://github.com/usuario",
+  "birthDate": "2001/09/06",
+  "nationility": "Argentina",
+  "sexo": "M",
+  "academicInformation": [
+    {
+      "institutionName": "312",
+      "yearStart": "2006/03/09",
+      "yearEnd": "2012/12/15",
+      "title": "Primaria Completa"
+    }
+  ],
+  "laboralExperience": "5 Años",
+  "skills": [
+    {
+      "descriptionSkill": "Entusiasta"
+    },
+    {
+      "descriptionSkill": "Decidido"
+    }
+  ],
+  "favoriteLanguageProgramming": [
+    {
+      "languageName": ""
+    },
+    {
+      "languageName": "js"
+    }
+  ],
+  "favoriteFilms": [
+    {
+      "descriptionFilm": "Vengadores"
+    },
+    {
+      "descriptionFilm": "Superman"
+    }
+  ]
+}
